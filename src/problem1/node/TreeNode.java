@@ -35,5 +35,8 @@ public class TreeNode {
         this.rightNode = rightNode;
     }
 
-
+    @Override
+    public String toString(){
+        return "data ==>> " + getData();
+    }
 }
