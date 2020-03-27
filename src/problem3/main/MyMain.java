@@ -18,5 +18,8 @@ public class MyMain {
         MyPriorityQueue priorityQueue = new MyPriorityQueue();
         System.out.println( "Enter number of nodes " );/*--->*/
         int nodes = sc.nextInt();
+        while(nodes-- > 0) {
+
+        }
     }
 }
