@@ -14,4 +14,9 @@ import java.util.ArrayList;
 public class MyBinarySearchTree {
     private TreeNode root;
     private ArrayList<Integer> arrayList;
+
+    public MyBinarySearchTree(){
+        arrayList = new ArrayList<>();
+    }
 }
+
