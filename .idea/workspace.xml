@@ -81,14 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
-      <workItem from="1585336090279" duration="7625000" />
-    </task>
-    <task id="LOCAL-00001" summary="variables to store the values">
-      <created>1585336193491</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1585336193491</updated>
+      <workItem from="1585336090279" duration="7868000" />
     </task>
     <task id="LOCAL-00002" summary="getter and setter method to assign and access the values">
       <created>1585336233634</created>
@@ -405,17 +398,41 @@
       <option name="project" value="LOCAL" />
       <updated>1585344357779</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="created an object of student type">
+      <created>1585344386080</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1585344386080</updated>
+    </task>
+    <task id="LOCAL-00048" summary="while loop created successfully">
+      <created>1585344426521</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1585344426521</updated>
+    </task>
+    <task id="LOCAL-00049" summary="main class created successfully">
+      <created>1585344512655</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1585344512655</updated>
+    </task>
+    <task id="LOCAL-00050" summary="problem 3 completed successfully">
+      <created>1585344590984</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1585344590985</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created an object of binaryTree" />
-    <MESSAGE value="while loop for taking the number of inputs" />
-    <MESSAGE value="main class completed" />
-    <MESSAGE value="problem 1 completed" />
     <MESSAGE value="main method for the execution of the code" />
     <MESSAGE value="Scanner class to read the value from the user" />
     <MESSAGE value="created an object of MyBinarySearchTree" />
@@ -437,7 +454,11 @@
     <MESSAGE value="created an object of myPriorityQueue" />
     <MESSAGE value="taking number of nodes from the user" />
     <MESSAGE value="while loop for adding the details of n students" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop for adding the details of n students" />
+    <MESSAGE value="created an object of student type" />
+    <MESSAGE value="while loop created successfully" />
+    <MESSAGE value="main class created successfully" />
+    <MESSAGE value="problem 3 completed successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 3 completed successfully" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -451,10 +472,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585344511673">
+    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585344589581">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585344511673" />
+    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585344589581" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -479,10 +500,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="439" y="118" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1585341348054" />
-    <state x="722" y="152" key="Vcs.Push.Dialog.v2" timestamp="1585339586420">
+    <state x="722" y="152" key="Vcs.Push.Dialog.v2" timestamp="1585344598469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585339586420" />
+    <state x="722" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585344598469" />
     <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585336096423">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
