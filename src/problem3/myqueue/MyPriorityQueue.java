@@ -20,6 +20,7 @@ public class MyPriorityQueue {
     }
 
     public void enQueue(Node newNode){
+        Node temp = getFront();
 
     }
 }
