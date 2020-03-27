@@ -18,4 +18,8 @@ public class MyPriorityQueue {
     public void setFront(Node front){
         this.front = front;
     }
+
+    public void enQueue(Node newNode){
+
+    }
 }
