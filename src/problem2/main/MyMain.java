@@ -26,5 +26,7 @@ public class MyMain {
             node.setData( val );
             bst.insert( node );
         }
+        System.out.println( "----Pre order traversal--out--" );
+        bst.showTreeData( bst.getRoot() );
     }
 }
