@@ -25,6 +25,7 @@ public class MyMain {
             node.setData( val );
             bst.insert( node );
         }
+        System.out.println( bst.showLeft( bst.getRoot(), false ) );
 
     }
 }
