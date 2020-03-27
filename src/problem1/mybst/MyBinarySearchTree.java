@@ -28,7 +28,10 @@ public class MyBinarySearchTree {
     }
 
     public void insert(TreeNode newNode){
-
+        if(getRoot() == null) {
+            setRoot( newNode );
+            return;
+        }
     }
 }
 
