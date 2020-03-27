@@ -7,6 +7,7 @@
 package problem3.main;
 
 import problem3.myqueue.MyPriorityQueue;
+import problem5.student.Student;
 
 import java.util.Scanner;
 
@@ -19,7 +20,7 @@ public class MyMain {
         System.out.println( "Enter number of nodes " );/*--->*/
         int nodes = sc.nextInt();
         while(nodes-- > 0) {
-
+            Student student = new Student();
         }
     }
 }
