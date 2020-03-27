@@ -16,5 +16,7 @@ public class MyMain {
     public static void main(String[] args){
         Scanner sc = new Scanner( System.in );
         MyPriorityQueue priorityQueue = new MyPriorityQueue();
+        System.out.println( "Enter number of nodes " );/*--->*/
+        int nodes = sc.nextInt();
     }
 }
