@@ -68,5 +68,9 @@ public class MyBinarySearchTree {
         return c;
     }
 
+    public void showTreeData(TreeNode node){
+
+    }
+
 }
 
