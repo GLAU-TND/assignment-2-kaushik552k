@@ -34,6 +34,12 @@ public class MyMain {
 
             priorityQueue.enQueue( node );
         }
+        System.out.println( "Displaying Queue" );
 
+        Node node = priorityQueue.deQueue();
+        while(node != null) {
+            System.out.println( node );
+            node = priorityQueue.deQueue();
+        }
     }
 }
