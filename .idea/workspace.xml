@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -21,6 +28,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager" selected="Application.MyMain (2)">
@@ -81,28 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
-      <workItem from="1585336090279" duration="7868000" />
-    </task>
-    <task id="LOCAL-00002" summary="getter and setter method to assign and access the values">
-      <created>1585336233634</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1585336233634</updated>
-    </task>
-    <task id="LOCAL-00003" summary="toString method to display the data">
-      <created>1585336254336</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1585336254336</updated>
-    </task>
-    <task id="LOCAL-00004" summary="variables for the tree">
-      <created>1585336740327</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1585336740327</updated>
+      <workItem from="1585336090279" duration="8324000" />
     </task>
     <task id="LOCAL-00005" summary="default constructor">
       <created>1585336774992</created>
@@ -426,16 +415,34 @@
       <option name="project" value="LOCAL" />
       <updated>1585344590985</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="variables to store the values">
+      <created>1585344730434</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1585344730434</updated>
+    </task>
+    <task id="LOCAL-00052" summary="getter and setter method for the private variables">
+      <created>1585344765529</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1585344765529</updated>
+    </task>
+    <task id="LOCAL-00053" summary="variables to create structure">
+      <created>1585344923329</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1585344923329</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="main method for the execution of the code" />
-    <MESSAGE value="Scanner class to read the value from the user" />
-    <MESSAGE value="created an object of MyBinarySearchTree" />
     <MESSAGE value="taking the value of number of nodes" />
     <MESSAGE value="while loop for taking the data for all the nodes" />
     <MESSAGE value="print in pre order form" />
@@ -458,7 +465,10 @@
     <MESSAGE value="while loop created successfully" />
     <MESSAGE value="main class created successfully" />
     <MESSAGE value="problem 3 completed successfully" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 3 completed successfully" />
+    <MESSAGE value="variables to store the values" />
+    <MESSAGE value="getter and setter method for the private variables" />
+    <MESSAGE value="variables to create structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="variables to create structure" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -472,10 +482,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585344764866">
+    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585344921700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585344764866" />
+    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585344921700" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -500,6 +510,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="439" y="118" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1585341348054" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1585345055181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585345055181" />
     <state x="722" y="152" key="Vcs.Push.Dialog.v2" timestamp="1585344598469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
