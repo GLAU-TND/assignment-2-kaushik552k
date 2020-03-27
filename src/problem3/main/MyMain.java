@@ -7,6 +7,7 @@
 package problem3.main;
 
 import problem3.myqueue.MyPriorityQueue;
+import problem3.node.Node;
 import problem5.student.Student;
 
 import java.util.Scanner;
@@ -21,6 +22,18 @@ public class MyMain {
         int nodes = sc.nextInt();
         while(nodes-- > 0) {
             Student student = new Student();
+            System.out.println( "Enter name " );/*--->*/
+            String name = sc.next().trim();
+            System.out.println( "Enter roll number" );/*--->*/
+            int roll = sc.nextInt();
+            student.setName( name );
+            student.setRollNumber( roll );
+
+            Node node = new Node();
+            node.setStudent( student );
+
+            priorityQueue.enQueue( node );
         }
+
     }
 }
