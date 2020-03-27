@@ -47,6 +47,12 @@ public class MyBinarySearchTree {
                 isLeft = true;
             }
         }
+        if(isLeft)
+            parent.setLeftNode( newNode );
+        else
+            parent.setRightNode( newNode );
     }
+
+}
 }
 
