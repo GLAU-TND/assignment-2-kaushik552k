@@ -29,5 +29,8 @@ public class MyCircularQueue {
         this.rear = rear;
     }
 
+    public void enQueue(Node newNode){
+
+    }
 
 }
