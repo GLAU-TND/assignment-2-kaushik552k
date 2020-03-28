@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="" />
+    <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/main/MyMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,13 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
       <workItem from="1585336090279" duration="9683000" />
-    </task>
-    <task id="LOCAL-00008" summary="if no value in tree simply add">
-      <created>1585337134877</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1585337134877</updated>
+      <workItem from="1585389019011" duration="413000" />
     </task>
     <task id="LOCAL-00009" summary="while loop for traversing">
       <created>1585337163317</created>
@@ -436,14 +433,20 @@
       <option name="project" value="LOCAL" />
       <updated>1585345806317</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="main class for the execution of program">
+      <created>1585389176150</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389176151</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="print in post order traversal form" />
     <MESSAGE value="problem 2 completed" />
     <MESSAGE value="created variables to store the data" />
     <MESSAGE value="getter and setter method for student and nextNode variables" />
@@ -468,7 +471,8 @@
     <MESSAGE value="getter and setter method for private fields" />
     <MESSAGE value="enQueue method to traverse and add elements in queue" />
     <MESSAGE value="deQueue method for insertion and deletion as well" />
-    <option name="LAST_COMMIT_MESSAGE" value="deQueue method for insertion and deletion as well" />
+    <MESSAGE value="main class for the execution of program" />
+    <option name="LAST_COMMIT_MESSAGE" value="main class for the execution of program" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -482,10 +486,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585345805105">
+    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585389175273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585345805105" />
+    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585389175273" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
