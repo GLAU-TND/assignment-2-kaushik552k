@@ -95,28 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
       <workItem from="1585336090279" duration="9683000" />
-      <workItem from="1585389019011" duration="413000" />
-    </task>
-    <task id="LOCAL-00009" summary="while loop for traversing">
-      <created>1585337163317</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1585337163317</updated>
-    </task>
-    <task id="LOCAL-00010" summary="insert method completed">
-      <created>1585337427926</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1585337427926</updated>
-    </task>
-    <task id="LOCAL-00011" summary="insert method completed">
-      <created>1585337470517</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1585337470517</updated>
+      <workItem from="1585389019011" duration="708000" />
     </task>
     <task id="LOCAL-00012" summary="creation of showLeft method">
       <created>1585337529358</created>
@@ -440,16 +419,34 @@
       <option name="project" value="LOCAL" />
       <updated>1585389176151</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="SCanner objedct for taking the user input">
+      <created>1585389478718</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389478719</updated>
+    </task>
+    <task id="LOCAL-00059" summary="created object of binary search tree">
+      <created>1585389514431</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389514431</updated>
+    </task>
+    <task id="LOCAL-00060" summary="created an object of myQueue">
+      <created>1585389604477</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389604477</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="problem 2 completed" />
-    <MESSAGE value="created variables to store the data" />
-    <MESSAGE value="getter and setter method for student and nextNode variables" />
     <MESSAGE value="toString method to display the name" />
     <MESSAGE value="front variable of node type" />
     <MESSAGE value="getter and setter method for front variable" />
@@ -472,7 +469,10 @@
     <MESSAGE value="enQueue method to traverse and add elements in queue" />
     <MESSAGE value="deQueue method for insertion and deletion as well" />
     <MESSAGE value="main class for the execution of program" />
-    <option name="LAST_COMMIT_MESSAGE" value="main class for the execution of program" />
+    <MESSAGE value="SCanner objedct for taking the user input" />
+    <MESSAGE value="created object of binary search tree" />
+    <MESSAGE value="created an object of myQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="created an object of myQueue" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -486,10 +486,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585389513472">
+    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585389603531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585389513472" />
+    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585389603531" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
