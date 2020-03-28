@@ -9,7 +9,9 @@ package problem4.main;
 import problem1.mybst.MyBinarySearchTree;
 import problem1.node.TreeNode;
 import problem4.myqueue.MyQueue;
+import problem4.node.Node;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 // executable class
@@ -21,6 +23,7 @@ public class MyMain {
         MyQueue queue = new MyQueue();
         System.out.println( "Enter number of nodes" );
         int numberOfNodes = sc.nextInt();
+
         while(numberOfNodes-- > 0) {
             System.out.println( "Enter data" );/*--->*/
             int data = sc.nextInt();
@@ -28,6 +31,14 @@ public class MyMain {
             treeNode.setData( data );
             bst.insert( treeNode );
         }
+
+        ArrayList<Integer> arrayList = bst.getPreOrderList();
+        for (int i = 1; i < arrayList.size(); i++) {
+            Node node = new Node();
+            node.setData( arrayList.get( i ) );
+            queue.enQueue( node );
+        }
+
 
     }
 }
