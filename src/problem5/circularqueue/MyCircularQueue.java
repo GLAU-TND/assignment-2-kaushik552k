@@ -30,6 +30,11 @@ public class MyCircularQueue {
     }
 
     public void enQueue(Node newNode){
+        if(getFront() == null && getRear() == null) {
+            setFront( newNode );
+            setRear( newNode );
+            getRear().setNext( getFront() );
+        }
 
     }
 

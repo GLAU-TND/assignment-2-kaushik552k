@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem5/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/node/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,49 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
       <workItem from="1585336090279" duration="9683000" />
-      <workItem from="1585389019011" duration="1265000" />
-    </task>
-    <task id="LOCAL-00016" summary="completed the method showTreeData">
-      <created>1585338112452</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1585338112452</updated>
-    </task>
-    <task id="LOCAL-00017" summary="method addElementToList to add the value">
-      <created>1585338175904</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1585338175904</updated>
-    </task>
-    <task id="LOCAL-00018" summary="getPreorderList method to get the list in pre order form">
-      <created>1585338454241</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1585338454241</updated>
-    </task>
-    <task id="LOCAL-00019" summary="postOrderTraverse method to trave the list in post order form">
-      <created>1585338555101</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1585338555101</updated>
-    </task>
-    <task id="LOCAL-00020" summary="main class for the execution of program">
-      <created>1585338579889</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1585338579889</updated>
-    </task>
-    <task id="LOCAL-00021" summary="created an object of scanner class to read the value from the user">
-      <created>1585338641507</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1585338641507</updated>
+      <workItem from="1585389019011" duration="1619000" />
     </task>
     <task id="LOCAL-00022" summary="created an object of binaryTree">
       <created>1585338682360</created>
@@ -454,17 +412,55 @@
       <option name="project" value="LOCAL" />
       <updated>1585390112673</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="created a variable of student and node type">
+      <created>1585390320689</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390320689</updated>
+    </task>
+    <task id="LOCAL-00066" summary="getter and setter method for private fields">
+      <created>1585390355363</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390355363</updated>
+    </task>
+    <task id="LOCAL-00067" summary="node class completed">
+      <created>1585390373615</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390373615</updated>
+    </task>
+    <task id="LOCAL-00068" summary="created two private field of node type">
+      <created>1585390440676</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390440676</updated>
+    </task>
+    <task id="LOCAL-00069" summary="getter and setter method for private fields">
+      <created>1585390475339</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390475339</updated>
+    </task>
+    <task id="LOCAL-00070" summary="creation of enQueue method with Node type parameter">
+      <created>1585390530126</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390530126</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created the class MyPriorityQueue" />
-    <MESSAGE value="main class to execute the code" />
-    <MESSAGE value="Scanner object for reading the user input" />
-    <MESSAGE value="created an object of myPriorityQueue" />
     <MESSAGE value="taking number of nodes from the user" />
     <MESSAGE value="while loop for adding the details of n students" />
     <MESSAGE value="created an object of student type" />
@@ -474,7 +470,6 @@
     <MESSAGE value="variables to store the values" />
     <MESSAGE value="getter and setter method for the private variables" />
     <MESSAGE value="variables to create structure" />
-    <MESSAGE value="getter and setter method for private fields" />
     <MESSAGE value="enQueue method to traverse and add elements in queue" />
     <MESSAGE value="deQueue method for insertion and deletion as well" />
     <MESSAGE value="main class for the execution of program" />
@@ -486,7 +481,12 @@
     <MESSAGE value="printing the nodes" />
     <MESSAGE value="printing the key and data" />
     <MESSAGE value="problem 4 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 4 completed" />
+    <MESSAGE value="created a variable of student and node type" />
+    <MESSAGE value="node class completed" />
+    <MESSAGE value="created two private field of node type" />
+    <MESSAGE value="getter and setter method for private fields" />
+    <MESSAGE value="creation of enQueue method with Node type parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation of enQueue method with Node type parameter" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -500,10 +500,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585390473932">
+    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585390529173">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585390473932" />
+    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585390529173" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
