@@ -72,7 +72,8 @@ public class MyCircularQueue {
     }
 
     public void removeZeroBacklogRecords(){
-
+        Node before = getRear();
+        Node ahead = getFront();
     }
 
 
