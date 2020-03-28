@@ -41,5 +41,18 @@ public class MyMain {
 
             numberOfRecords--;
         }
+        System.out.println( "****************************" );
+        System.out.println( "Data before deleting records" );
+        System.out.println( "****************************" );
+        circularQueue.traverseQueue();
+
+        System.out.println( "Removing zero backlog students" );
+        circularQueue.removeZeroBacklogRecords();
+
+        System.out.println( "****************************" );
+        System.out.println( "Data after deleting records" );
+        System.out.println( "****************************" );
+        circularQueue.traverseQueue();
+
     }
 }
