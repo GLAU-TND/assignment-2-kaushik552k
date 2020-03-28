@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="">
+    <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="while loop for taking user input and assigning it into student queue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,21 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
       <workItem from="1585336090279" duration="9683000" />
-      <workItem from="1585389019011" duration="2780000" />
-    </task>
-    <task id="LOCAL-00032" summary="print in post order traversal form">
-      <created>1585339464549</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1585339464549</updated>
-    </task>
-    <task id="LOCAL-00033" summary="problem 2 completed">
-      <created>1585339579559</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1585339579559</updated>
+      <workItem from="1585389019011" duration="3073000" />
     </task>
     <task id="LOCAL-00034" summary="created variables to store the data">
       <created>1585339719142</created>
@@ -453,15 +440,27 @@
       <option name="project" value="LOCAL" />
       <updated>1585391749316</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="created an object of scanner class for user input">
+      <created>1585391828676</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391828676</updated>
+    </task>
+    <task id="LOCAL-00082" summary="taking the value of nodes from the user">
+      <created>1585391923631</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391923631</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="deQueue method for insertion and deletion as well" />
-    <MESSAGE value="main class for the execution of program" />
     <MESSAGE value="SCanner objedct for taking the user input" />
     <MESSAGE value="created object of binary search tree" />
     <MESSAGE value="created an object of myQueue" />
@@ -485,7 +484,9 @@
     <MESSAGE value="created two field of Node types" />
     <MESSAGE value="MyCircularQueue class completed" />
     <MESSAGE value="main class for teh execution of the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="main class for teh execution of the code" />
+    <MESSAGE value="created an object of scanner class for user input" />
+    <MESSAGE value="taking the value of nodes from the user" />
+    <option name="LAST_COMMIT_MESSAGE" value="taking the value of nodes from the user" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -499,10 +500,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585391827834">
+    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585392094445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585391827834" />
+    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585392094445" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
