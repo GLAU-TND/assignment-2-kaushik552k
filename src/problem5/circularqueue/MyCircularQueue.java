@@ -35,6 +35,11 @@ public class MyCircularQueue {
             setRear( newNode );
             getRear().setNext( getFront() );
         }
+        else{
+            newNode.setNext( getFront() );
+            getRear().setNext( newNode );
+            setRear( getRear().getNext() );
+        }
 
     }
 
