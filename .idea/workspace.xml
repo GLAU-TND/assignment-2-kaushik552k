@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/node/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,21 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
       <workItem from="1585336090279" duration="9683000" />
-      <workItem from="1585389019011" duration="956000" />
-    </task>
-    <task id="LOCAL-00014" summary="showTreeData to display hte value of tree">
-      <created>1585337994980</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1585337994980</updated>
-    </task>
-    <task id="LOCAL-00015" summary="if no value is found,return null">
-      <created>1585338038894</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1585338038894</updated>
+      <workItem from="1585389019011" duration="1265000" />
     </task>
     <task id="LOCAL-00016" summary="completed the method showTreeData">
       <created>1585338112452</created>
@@ -454,16 +440,27 @@
       <option name="project" value="LOCAL" />
       <updated>1585389956847</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="printing the key and data">
+      <created>1585390050424</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390050424</updated>
+    </task>
+    <task id="LOCAL-00064" summary="problem 4 completed">
+      <created>1585390112673</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1585390112673</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="getter and setter method for front variable" />
-    <MESSAGE value="enQueue method for assigning the values" />
-    <MESSAGE value="created temp variable of node type" />
     <MESSAGE value="created the class MyPriorityQueue" />
     <MESSAGE value="main class to execute the code" />
     <MESSAGE value="Scanner object for reading the user input" />
@@ -486,7 +483,10 @@
     <MESSAGE value="created an object of myQueue" />
     <MESSAGE value="while loop for n number of nodes" />
     <MESSAGE value="arrayList for assigning the values in pre order form" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrayList for assigning the values in pre order form" />
+    <MESSAGE value="printing the nodes" />
+    <MESSAGE value="printing the key and data" />
+    <MESSAGE value="problem 4 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 4 completed" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -500,10 +500,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585390049354">
+    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585390111547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585390049354" />
+    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585390111547" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -532,10 +532,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585345167897" />
-    <state x="722" y="152" key="Vcs.Push.Dialog.v2" timestamp="1585344598469">
+    <state x="722" y="152" key="Vcs.Push.Dialog.v2" timestamp="1585390128769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585344598469" />
+    <state x="722" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585390128769" />
     <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585389026567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
