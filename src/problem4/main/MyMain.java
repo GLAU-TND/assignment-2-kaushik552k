@@ -39,6 +39,17 @@ public class MyMain {
             queue.enQueue( node );
         }
 
+        System.out.println( "Pre order successor of all nodes are --->" );
+        int i = 0;
+        Node node = queue.deQueue();
+        while(node != null) {
+            System.out.println( "Key --> " + arrayList.get( i ) + " Successor --> " + node.getData() );
+            node = queue.deQueue();
+            i++;
+        }
+        System.out.println( "Key --> " + arrayList.get( i ) + " Not available" );
 
     }
-}
+
+    }
+

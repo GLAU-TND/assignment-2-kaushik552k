@@ -95,21 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
       <workItem from="1585336090279" duration="9683000" />
-      <workItem from="1585389019011" duration="708000" />
-    </task>
-    <task id="LOCAL-00012" summary="creation of showLeft method">
-      <created>1585337529358</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1585337529358</updated>
-    </task>
-    <task id="LOCAL-00013" summary="created the method showLeft">
-      <created>1585337950263</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1585337950263</updated>
+      <workItem from="1585389019011" duration="956000" />
     </task>
     <task id="LOCAL-00014" summary="showTreeData to display hte value of tree">
       <created>1585337994980</created>
@@ -440,15 +426,27 @@
       <option name="project" value="LOCAL" />
       <updated>1585389604477</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="while loop for n number of nodes">
+      <created>1585389796596</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389796596</updated>
+    </task>
+    <task id="LOCAL-00062" summary="arrayList for assigning the values in pre order form">
+      <created>1585389956847</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1585389956847</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="toString method to display the name" />
-    <MESSAGE value="front variable of node type" />
     <MESSAGE value="getter and setter method for front variable" />
     <MESSAGE value="enQueue method for assigning the values" />
     <MESSAGE value="created temp variable of node type" />
@@ -472,7 +470,9 @@
     <MESSAGE value="SCanner objedct for taking the user input" />
     <MESSAGE value="created object of binary search tree" />
     <MESSAGE value="created an object of myQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="created an object of myQueue" />
+    <MESSAGE value="while loop for n number of nodes" />
+    <MESSAGE value="arrayList for assigning the values in pre order form" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrayList for assigning the values in pre order form" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -486,10 +486,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585389795333">
+    <state x="521" y="14" key="CommitChangelistDialog2" timestamp="1585390014134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585389795333" />
+    <state x="521" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585390014134" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
