@@ -44,7 +44,7 @@ public class MyCircularQueue {
     }
 
     public void traverseQueue(){
-
+        Node temp = getFront();
     }
 
 }
