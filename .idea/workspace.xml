@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
-    </list>
+    <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,14 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
-      <workItem from="1585336090279" duration="8996000" />
-    </task>
-    <task id="LOCAL-00007" summary="creation of insert method">
-      <created>1585336908259</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1585336908259</updated>
+      <workItem from="1585336090279" duration="9683000" />
     </task>
     <task id="LOCAL-00008" summary="if no value in tree simply add">
       <created>1585337134877</created>
@@ -439,14 +429,20 @@
       <option name="project" value="LOCAL" />
       <updated>1585345544947</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="deQueue method for insertion and deletion as well">
+      <created>1585345806317</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1585345806317</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="print in pre order form" />
     <MESSAGE value="print in post order traversal form" />
     <MESSAGE value="problem 2 completed" />
     <MESSAGE value="created variables to store the data" />
@@ -471,7 +467,8 @@
     <MESSAGE value="variables to create structure" />
     <MESSAGE value="getter and setter method for private fields" />
     <MESSAGE value="enQueue method to traverse and add elements in queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="enQueue method to traverse and add elements in queue" />
+    <MESSAGE value="deQueue method for insertion and deletion as well" />
+    <option name="LAST_COMMIT_MESSAGE" value="deQueue method for insertion and deletion as well" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -493,22 +490,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585343202582" />
-    <state width="1493" height="87" key="GridCell.Tab.0.bottom" timestamp="1585344529094">
+    <state width="723" height="28" key="GridCell.Tab.0.bottom" timestamp="1585346836560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="87" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585344529094" />
-    <state width="1493" height="87" key="GridCell.Tab.0.center" timestamp="1585344529094">
+    <state width="723" height="28" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585346836560" />
+    <state width="723" height="28" key="GridCell.Tab.0.center" timestamp="1585346836560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="87" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585344529094" />
-    <state width="1493" height="87" key="GridCell.Tab.0.left" timestamp="1585344529093">
+    <state width="723" height="28" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585346836560" />
+    <state width="723" height="28" key="GridCell.Tab.0.left" timestamp="1585346836560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="87" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585344529093" />
-    <state width="1493" height="87" key="GridCell.Tab.0.right" timestamp="1585344529094">
+    <state width="723" height="28" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585346836560" />
+    <state width="723" height="28" key="GridCell.Tab.0.right" timestamp="1585346836560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="87" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585344529094" />
+    <state width="723" height="28" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585346836560" />
     <state x="439" y="118" key="NewModule_or_Project.wizard" timestamp="1585341348054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -521,10 +518,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="722" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585344598469" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585336096423">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585389026567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585336096423" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585389026567" />
     <state x="836" y="219" key="git4idea.merge.GitPullDialog" timestamp="1585336267685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
