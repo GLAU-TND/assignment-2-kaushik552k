@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bf53d4-cf4e-4258-ac0b-6cfd568c4fe2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,21 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585336085965</updated>
       <workItem from="1585336090279" duration="9683000" />
-      <workItem from="1585389019011" duration="2504000" />
-    </task>
-    <task id="LOCAL-00030" summary="while loop for taking the data for all the nodes">
-      <created>1585339397508</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1585339397508</updated>
-    </task>
-    <task id="LOCAL-00031" summary="print in pre order form">
-      <created>1585339431524</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1585339431524</updated>
+      <workItem from="1585389019011" duration="2780000" />
     </task>
     <task id="LOCAL-00032" summary="print in post order traversal form">
       <created>1585339464549</created>
@@ -454,15 +439,27 @@
       <option name="project" value="LOCAL" />
       <updated>1585391385995</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="MyCircularQueue class completed">
+      <created>1585391696247</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391696247</updated>
+    </task>
+    <task id="LOCAL-00080" summary="main class for teh execution of the code">
+      <created>1585391749316</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391749316</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="variables to create structure" />
-    <MESSAGE value="enQueue method to traverse and add elements in queue" />
     <MESSAGE value="deQueue method for insertion and deletion as well" />
     <MESSAGE value="main class for the execution of program" />
     <MESSAGE value="SCanner objedct for taking the user input" />
@@ -486,7 +483,9 @@
     <MESSAGE value="deQueue method for accessing from both sides" />
     <MESSAGE value="created a method for removingRecords" />
     <MESSAGE value="created two field of Node types" />
-    <option name="LAST_COMMIT_MESSAGE" value="created two field of Node types" />
+    <MESSAGE value="MyCircularQueue class completed" />
+    <MESSAGE value="main class for teh execution of the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="main class for teh execution of the code" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -500,10 +499,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585343531734" />
-    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585391694787">
+    <state x="452" y="14" key="CommitChangelistDialog2" timestamp="1585391748236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585391694787" />
+    <state x="452" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585391748236" />
     <state x="548" y="157" key="FileChooserDialogImpl" timestamp="1585343202582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
